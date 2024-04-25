@@ -4,7 +4,7 @@ Bernheim Forest
 [Home](https://sdavis2992.github.io//Bernheim_Forest)
 
 ![Bernheim Forest](Bernheim_Forest.jpg)
-Map of Bernheim Forest in Clermont, Kentucky
+Shaded Relief Map of Bernheim Forest in Clermont, Kentucky
 
 Major Attractions: 
 ![Walk with the Gaints](giants-3.jpg)
