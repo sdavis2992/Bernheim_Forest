@@ -1,12 +1,16 @@
 # Bernheim_Forest
-Robinson Forest Firetower from above
+Bernheim Forest
 
-[Home](https://github.com/sdavis2992/FireTower)
+[Home](https://sdavis2992.github.io//Bernheim_Forest)
 
-![Bernheim Forest](Fire_Tower.jpg)
+![Bernheim Forest](Bernheim_Forest.jpg)
 Map of Bernheim Forest in Clermont, Kentucky
 
-[Link Georeferenced PDF](https://youtu.be/l3R61UgKt5I)
+Major Attractions: 
+![Walk with the Gaints](giants-3.jpg)
+![Lunch at the Nature Center](Bernheim_01-1680x945.jpg)
+
+[Link Georeferenced PDF](Georef_Bernheim.pdf)
 
 Created by Sda251, Spring 2024
 GEO409
